@@ -1,0 +1,107 @@
+[
+  {
+    "id": "student_1",
+    "fullName": "Ali Moussaoui",
+    "requestedSubjects": ["Mathématiques"],
+    "level": "Lycée",
+    "availability": [
+      {
+        "day": "Lundi",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      },
+      {
+        "day": "Samedi",
+        "startTime": "14:00",
+        "endTime": "17:00"
+      }
+    ],
+    "budget": 30,
+    "urgency": "high"
+  },
+  {
+    "id": "student_2",
+    "fullName": "Yasmine Kaddour",
+    "requestedSubjects": ["Physique"],
+    "level": "Collège",
+    "availability": [
+      {
+        "day": "Mercredi",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      },
+      {
+        "day": "Samedi",
+        "startTime": "10:00",
+        "endTime": "12:00"
+      }
+    ],
+    "budget": 25,
+    "urgency": "medium"
+  },
+  {
+    "id": "student_3",
+    "fullName": "Lucas Petit",
+    "requestedSubjects": ["Français", "Littérature"],
+    "level": "Terminale",
+    "availability": [
+      {
+        "day": "Lundi",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      },
+      {
+        "day": "Mardi",
+        "startTime": "17:00",
+        "endTime": "19:00"
+      }
+    ],
+    "budget": 35,
+    "urgency": "high"
+  },
+  {
+    "id": "student_4",
+    "fullName": "Emma Rousseau",
+    "requestedSubjects": ["Mathématiques", "Physique"],
+    "level": "Lycée",
+    "availability": [
+      {
+        "day": "Mardi",
+        "startTime": "16:00",
+        "endTime": "18:00"
+      },
+      {
+        "day": "Jeudi",
+        "startTime": "17:00",
+        "endTime": "19:00"
+      },
+      {
+        "day": "Samedi",
+        "startTime": "15:00",
+        "endTime": "18:00"
+      }
+    ],
+    "budget": 28,
+    "urgency": "medium"
+  },
+  {
+    "id": "student_5",
+    "fullName": "Maxime Durand",
+    "requestedSubjects": ["Anglais"],
+    "level": "Collège",
+    "availability": [
+      {
+        "day": "Lundi",
+        "startTime": "17:00",
+        "endTime": "19:00"
+      },
+      {
+        "day": "Mercredi",
+        "startTime": "17:00",
+        "endTime": "19:00"
+      }
+    ],
+    "budget": 22,
+    "urgency": "low"
+  }
+]

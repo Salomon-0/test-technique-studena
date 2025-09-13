@@ -1,0 +1,132 @@
+[
+  {
+    "id": "tutor_1",
+    "fullName": "Ahmed Benali",
+    "subjects": ["Mathématiques", "Physique"],
+    "levels": ["Collège", "Lycée"],
+    "availability": [
+      {
+        "day": "Lundi",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      },
+      {
+        "day": "Mercredi",
+        "startTime": "16:00",
+        "endTime": "20:00"
+      },
+      {
+        "day": "Samedi",
+        "startTime": "10:00",
+        "endTime": "19:00"
+      }
+    ],
+    "experience": 5,
+    "rating": 4.8,
+    "hourlyRate": 25
+  },
+  {
+    "id": "tutor_2",
+    "fullName": "Sarah Dubois",
+    "subjects": ["Physique", "Chimie"],
+    "levels": ["Collège", "Lycée"],
+    "availability": [
+      {
+        "day": "Mercredi",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      },
+      {
+        "day": "Samedi",
+        "startTime": "10:00",
+        "endTime": "22:00"
+      },
+      {
+        "day": "Dimanche",
+        "startTime": "14:00",
+        "endTime": "18:00"
+      }
+    ],
+    "experience": 3,
+    "rating": 4.6,
+    "hourlyRate": 22
+  },
+  {
+    "id": "tutor_3",
+    "fullName": "Karim Hassani",
+    "subjects": ["Français", "Littérature"],
+    "levels": ["Terminale", "Lycée"],
+    "availability": [
+      {
+        "day": "Lundi",
+        "startTime": "18:00",
+        "endTime": "20:00"
+      },
+      {
+        "day": "Mardi",
+        "startTime": "17:00",
+        "endTime": "19:00"
+      },
+      {
+        "day": "Jeudi",
+        "startTime": "18:00",
+        "endTime": "21:00"
+      }
+    ],
+    "experience": 8,
+    "rating": 4.9,
+    "hourlyRate": 30
+  },
+  {
+    "id": "tutor_4",
+    "fullName": "Marie Lefebvre",
+    "subjects": ["Mathématiques", "Informatique"],
+    "levels": ["Collège", "Lycée", "Terminale"],
+    "availability": [
+      {
+        "day": "Mardi",
+        "startTime": "16:00",
+        "endTime": "19:00"
+      },
+      {
+        "day": "Jeudi",
+        "startTime": "16:00",
+        "endTime": "19:00"
+      },
+      {
+        "day": "Vendredi",
+        "startTime": "17:00",
+        "endTime": "20:00"
+      }
+    ],
+    "experience": 6,
+    "rating": 4.7,
+    "hourlyRate": 28
+  },
+  {
+    "id": "tutor_5",
+    "fullName": "Thomas Martin",
+    "subjects": ["Anglais", "Espagnol"],
+    "levels": ["Collège", "Lycée"],
+    "availability": [
+      {
+        "day": "Lundi",
+        "startTime": "17:00",
+        "endTime": "20:00"
+      },
+      {
+        "day": "Mercredi",
+        "startTime": "17:00",
+        "endTime": "20:00"
+      },
+      {
+        "day": "Vendredi",
+        "startTime": "18:00",
+        "endTime": "21:00"
+      }
+    ],
+    "experience": 4,
+    "rating": 4.5,
+    "hourlyRate": 24
+  }
+]
